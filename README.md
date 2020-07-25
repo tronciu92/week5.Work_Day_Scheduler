@@ -14,10 +14,10 @@ so  that I can manage my time effectively`
 `The user clicks into the text area/row and inputs the event to be penciled in for that corresponding hour. Clicking the icon to the right saves the user's input to localStorage so that the data persists. The user can clear their entire schedule by clicking the 'Clear Schedule' button, or they can clear an individual event and save it again to clear that time slot. The user can also change the current day that is being displayed and continue to plan out their past and future days. .`
 
 # References
-### `jQuery - Used for event listeners of parent and childeren elements as well as to store and recall those varible in local storage.`
-### `momentjs - Used to pull current date and local time.`
-### `javascript - Used to dynamically change html and store user-input.`
-### `Bootstrap - Used to pull existing html and CSS for creating resposive organizational structer and styling for the site.`
-### `HTML - Used to create elements on the DOM`
-### `CSS - Styles html elements on page`
-### `GitHub - Hosts repository that can be deployed to GitHub Pages`
+#### jQuery - `Used for event listeners of parent and childeren elements as well as to store and recall those varible in local storage.`
+#### momentjs - `Used to pull current date and local time.`
+#### javascript - `Used to dynamically change html and store user-input.`
+#### Bootstrap - `Used to pull existing html and CSS for creating resposive organizational structer and styling for the site.`
+#### HTML - `Used to create elements on the DOM`
+#### CSS - `Styles html elements on page`
+#### GitHub - `Hosts repository that can be deployed to GitHub Pages`
