@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+body {
+  font-family: 'Nova Square', cursive;
+}
+
+th {
+  background-color: white;
+}
+
+th, td {
+  border-right: 1px solid lightgrey;
+}
+
+.time {
+    border-left: 1px solid lightgray;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(8, 114, 244, 0.6);
+}
+
+.input-cell {
+    padding: 0px !important;
+    position: relative;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(8, 114, 244, 0.6);
+}
+
+.input-area {
+    width: 100%;
+    height: 100%;
+    resize: none;
+    border: 0;
+    padding: 5px 0px 0px 10px;
+    position: absolute;
+}
+
+.save-button-cell {
+  background-color: lightgreen;
+  box-shadow: 0 0.4rem 1.4rem 0 rgba(8, 114, 244, 0.6);
+}
+
+.time,
+.save-button-cell {
+  width: 5%;
+}
+
+#title-date, #title-time {
+    margin: 0;
+}
+
+.sticky-footer {
+  bottom: 0px;
+  position: absolute;
+  width: 100%;
+}
